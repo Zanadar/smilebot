@@ -1,0 +1,19 @@
+{
+  "name": "slack_smiley",
+  "version": "1.0.0",
+  "description": "Smiley slackbot",
+  "main": "smilebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanadar/smilebot.git"
+  },
+  "author": "Zander Mackie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zanadar/smilebot/issues"
+  },
+  "homepage": "https://github.com/Zanadar/smilebot#readme"
+}
